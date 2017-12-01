@@ -6,6 +6,15 @@
     <input type="button" value="点我" onclick="b()" />
     <script>
     var b = a=>alert("我执行了");
+      function getQueryString(name) {  
+        var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");  
+        var r = window.location.search.substr(1).match(reg);  
+        if (r != null) return unescape(r[2]);  
+        return null;  
+    }  
+      
+      alert(getQueryString('w'));
     </script>
+    
   </body>
 </html>
