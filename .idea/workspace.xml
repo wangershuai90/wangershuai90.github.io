@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c390dbe-d3d1-48a5-9bd6-9ddf8d843fff" name="默认的" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/116.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/css/bootstrap.min_1.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/css/common.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/css/common_1.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/css/iconfont.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/css/iconfont_1.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/css/style_1.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/css/swiper.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/css/swiper.min_1.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/fonts/iconfont7efa.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/fonts/iconfont7efa.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/fonts/iconfont7efa.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/fonts/iconfont7efa.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/fonts/iconfont7efa_1.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/fonts/iconfont7efa_1.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/fonts/iconfont7efa_1.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/fonts/iconfont7efa_1.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/images/aliyun.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/images/aliyun_1.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/images/banner-2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/images/banner-2_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/images/banner-3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/images/banner-3_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/images/comment-icon.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/images/comment-icon_1.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/images/dropdown-menu-arrow.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/images/dropdown-menu-arrow_1.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/images/icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/images/icon_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/images/iconm.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/images/iconm_1.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/images/zuozhebg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/images/zuozhebg_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/js/ajax-comment.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/js/glodil.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/js/glodil_1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/js/jquery-ias.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/js/jquery-ias.min_1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/js/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/js/jquery.min_1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/js/js.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/js/js_1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/js/swiper.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/js/swiper.min_1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/js/wp-embed.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/js/wp-embed.min_1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/list.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/1.gif_; filename_=utf-8' '1.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/1.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/10.gif_; filename_=utf-8' '10.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/11.gif_; filename_=utf-8' '11.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/12.gif_; filename_=utf-8' '12.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/13.gif_; filename_=utf-8' '13.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/14.gif_; filename_=utf-8' '14.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/149430171408863840.jpg_; filename_=utf-8' '149430171408863840.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/149430171408863840.jpg_; filename_=utf-8' '149430171408863840_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/15.gif_; filename_=utf-8' '15.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/16.gif_; filename_=utf-8' '16.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/164032000296.png.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/17.gif_; filename_=utf-8' '17.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/18.gif_; filename_=utf-8' '18.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/19.gif_; filename_=utf-8' '19.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/196cb02438b840a0963a6ba66b8e815a.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/2.gif_; filename_=utf-8' '2.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/20.gif_; filename_=utf-8' '20.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/20572c56705b46bc8295f23ac7e8555f.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/21.gif_; filename_=utf-8' '21.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/22.gif_; filename_=utf-8' '22.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/23.gif_; filename_=utf-8' '23.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/24.gif_; filename_=utf-8' '24.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/25.gif_; filename_=utf-8' '25.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/26.gif_; filename_=utf-8' '26.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/27.gif_; filename_=utf-8' '27.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/28.gif_; filename_=utf-8' '28.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/29.gif_; filename_=utf-8' '29.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/3.gif_; filename_=utf-8' '3.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/30.gif_; filename_=utf-8' '30.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/31.gif_; filename_=utf-8' '31.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/32.gif_; filename_=utf-8' '32.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/33.gif_; filename_=utf-8' '33.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/34.gif_; filename_=utf-8' '34.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/35.gif_; filename_=utf-8' '35.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/36.gif_; filename_=utf-8' '36.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/37.gif_; filename_=utf-8' '37.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/38.gif_; filename_=utf-8' '38.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/39.gif_; filename_=utf-8' '39.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/4.gif_; filename_=utf-8' '4.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/40.gif_; filename_=utf-8' '40.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/4f2e94d9825c4b82bfbcccee004af830.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/5.gif_; filename_=utf-8' '5.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/51b680bfac484c1a83acab223893e91a.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/6.gif_; filename_=utf-8' '6.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/7.gif_; filename_=utf-8' '7.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/7a64078f461c4c8ab5d19fb63426ff5b.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/8.gif_; filename_=utf-8' '8.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/9.gif_; filename_=utf-8' '9.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/banner-1.jpg_; filename_=utf-8' 'banner-1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/banner-1.jpg_; filename_=utf-8' 'banner-1_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/banner-2.jpg_; filename_=utf-8' 'banner-2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/banner-2.jpg_; filename_=utf-8' 'banner-2_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/banner-3.jpg_; filename_=utf-8' 'banner-3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/banner-3.jpg_; filename_=utf-8' 'banner-3_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/de36780d85bb4ef6a2309c354f508fb3.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/logo-ztmao.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/logo-ztmao_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb0498.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb0498_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb0799.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb0799_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb07e9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb089d.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb089d_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb0ad0.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb0ad0_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb0c04.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb0c04_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb0ead.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb1b47.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb1b47_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb211f.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb211f_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb2138.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb2138_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb256c.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb256c_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb33d7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb3b71.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb3b71_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb3e02.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb3f7a.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb4f15.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb4f15_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb5b1d.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb5c9c.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb5d30.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb5d30_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb5ee6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb5ee6_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb5f42.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb5f42_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb605b.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb605b_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb6342.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb6342_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb67f0.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb67f0_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb683d.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb683d_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb6d8a.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb6d8a_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb74c0.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb74c0_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb7f7a.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb7f7a_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb8a31.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb8a31_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb91a5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb91a5_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb9267.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb9267_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb96e6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb96e6_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb9d90.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumb9d90_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumba251.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumba323.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumba323_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumba3b7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumba3b7_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumba6fa.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumba6fa_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumba88d.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumba88d_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumba8ed.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumba9e0.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumba9e0_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbacd9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbacd9_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbaf01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbaf01_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbaf8c.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbb347.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbb347_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbb668.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbb668_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbb75e.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbb7da.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbb7da_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbb98d.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbb98d_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbbb1a.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbbb1a_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbbc41.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbbedb.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbbedb_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbbfaf.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbbfaf_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbc163.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbc163_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbc3cf.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbc3cf_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbc68f.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbc68f_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbca64.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbca64_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbd010.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbd010_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbd2c0.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbd2c0_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbd4eb.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbd621.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbdec1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbe0bb.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbe126.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbe27a.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbe27a_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbe951.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbefbd.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbefbd_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbf26e.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbf29a.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbf4e0.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbf4e0_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbf748.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbf748_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbf781.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbf781_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbf938.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbf938_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbfbdc.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbfbdc_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbfc42.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbfcad.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/timthumbfcad_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/weixin.png_; filename_=utf-8' 'weixin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/weixin.png_; filename_=utf-8' 'weixin_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/ztmaoad.jpg_; filename_=utf-8' 'ztmaoad.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/ztmaoad.jpg_; filename_=utf-8' 'ztmaoad_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/主题猫_avatar_1494226879-25x25.jpg_; filename_=utf-8' '%25e4%25b8%25bb%25e9%25a2%2598%25e7%258c%25ab_avatar_1494226879-25x25.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/主题猫_avatar_1494226879-25x25.jpg_; filename_=utf-8' '%25e4%25b8%25bb%25e9%25a2%2598%25e7%258c%25ab_avatar_1494226879-25x25_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/大胡子_avatar_1494226931-25x25.jpg_; filename_=utf-8' '%25e5%25a4%25a7%25e8%2583%25a1%25e5%25ad%2590_avatar_1494226931-25x25.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/三门峡科技前沿/picture/大胡子_avatar_1494226931-25x25.jpg_; filename_=utf-8' '%25e5%25a4%25a7%25e8%2583%25a1%25e5%25ad%2590_avatar_1494226931-25x25_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/6460.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/css/font-awesome.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/fonts/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/fonts/fontawesome-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/fonts/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/js/html5.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/js/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/js/loader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/js/stat.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/js/wp-embed.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/list.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/463-224.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/6241bc8bd38f4077a0265f1a80261757.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/aliali.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/baidushare.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/code.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/echart.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/git.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/https-220x150.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/https.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/img_0119.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/js.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/kgc1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/kgc2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/logo-220150.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/p1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/tb-1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/tb-2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/tb-3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/tb-4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/u6112018022124988219fm23gp0-220x150.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/web.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/前端/picture/webpad.jpg" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="stat.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/前端/js/stat.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="js.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/三门峡科技前沿/js/js.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/三门峡科技前沿/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2700">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/前端/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="50" column="34" lean-forward="false" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6460.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/前端/6460.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="43" column="33" lean-forward="true" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/前端/list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2010">
+              <caret line="91" column="30" lean-forward="true" selection-start-line="91" selection-start-column="30" selection-end-line="91" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="116.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/三门峡科技前沿/116.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/前端/index.html" />
+        <option value="$PROJECT_DIR$/前端/list.html" />
+        <option value="$PROJECT_DIR$/前端/6460.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="536" />
+    <option name="y" value="27" />
+    <option name="width" value="1187" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wangershuai90.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangershuai90.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\cuijian\cui\wangershuai90.github.io" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c390dbe-d3d1-48a5-9bd6-9ddf8d843fff" name="默认的" comment="" />
+      <created>1514428798573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514428798573</updated>
+      <workItem from="1514428799998" duration="303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="303000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="536" y="27" width="1187" height="1039" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24935952" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/前端/js/stat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/三门峡科技前沿/js/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/三门峡科技前沿/116.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/三门峡科技前沿/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2700">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="50" column="34" lean-forward="false" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2010">
+          <caret line="91" column="30" lean-forward="true" selection-start-line="91" selection-start-column="30" selection-end-line="91" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/6460.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="43" column="33" lean-forward="true" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
